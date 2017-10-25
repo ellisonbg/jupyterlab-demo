@@ -74,6 +74,10 @@ def demofiles(ctx, clean=False, demofolder=demofolder):
 		'jakevdp/PythonDataScienceHandbook',
 		'swissnexSF/Urban-Data-Challenge',
 		'altair-viz/altair',
+		'altair-viz/altair_notebooks',
+		'vega/vega-datasets',
+		'sympy/quantum_notebooks',
+		'jupyter-widgets/ipywidgets',
 		'QuantEcon/QuantEcon.notebooks',
 		'theandygross/TCGA',
 		'aymericdamien/TensorFlow-Examples'

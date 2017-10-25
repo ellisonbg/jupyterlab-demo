@@ -17,3 +17,21 @@ scipy2017:
         demofiles/tcga/extra_data/c2.cp.v3.0.symbols_edit.csv: smaller.csv
         demofiles/altair/altair/examples/json/field_spaces.vl.json: vega.vl.json
         demofiles/pythondatasciencehandbook/notebooks/03.08-aggregation-and-grouping.ipynb: notebook.ipynb
+
+ucsd:
+    files:
+        - data/iris.csv
+        - data/1024px-Hubble_Interacting_Galaxy_AM_0500-620_(2008-04-24).jpg
+        - data/Museums_in_DC.geojson
+        - data/zika_assembled_genomes.fasta
+        - narrative/markdown_python.md
+        - demofiles/altair/altair/v1/examples/json/bar.vl.json
+        - demofiles/altair_notebooks/notebooks/09-CarsDataset.ipynb
+        - "demofiles/ipywidgets/docs/source/examples/Image\ Processing.ipynb"
+        - "demofiles/ipywidgets/docs/source/examples/Lorenz\ Differential\ Equations.ipynb"
+        - demofiles/pythondatasciencehandbook/notebooks/03.08-aggregation-and-grouping.ipynb
+        - demofiles/quantum_notebooks/notebooks/qft.ipynb
+        - demofiles/vega-datasets/data/cars.json
+    rename:
+        demofiles/urban-data-challenge/public-transportation/geneva/schedule-real-time.csv: big.csv
+        demofiles/tcga/extra_data/c2.cp.v3.0.symbols_edit.csv: smaller.csv
